@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/bin/Debug/net6.0/Week5LogicalOperators
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/bin/Debug/net6.0/Week5LogicalOperators.deps.json
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/bin/Debug/net6.0/Week5LogicalOperators.runtimeconfig.json
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/bin/Debug/net6.0/Week5LogicalOperators.dll
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/bin/Debug/net6.0/Week5LogicalOperators.pdb
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.AssemblyInfo.cs
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.dll
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/refint/Week5LogicalOperators.dll
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.pdb
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.genruntimeconfig.cache
+/Users/elinkass/Projects/Week5/Week5LogicalOperators/obj/Debug/net6.0/ref/Week5LogicalOperators.dll

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{34013388-8254-4FD7-9C15-B2D0234A2E3F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week5LogicalOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="1" />
+      <File FileName="../ANDOperator/Program.cs" Line="7" Column="1" />
+      <File FileName="../OROperator/Program.cs" Line="23" Column="2" />
+      <File FileName="../ANDRanges/Program.cs" Line="2" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week5LogicalOperators" expanded="True">
+            <Node name="ANDOperator" expanded="True" />
+            <Node name="ANDRanges" expanded="True" />
+            <Node name="OROperator" expanded="True" />
+            <Node name="Week5LogicalOperators" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ANDRanges PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OROperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ANDOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

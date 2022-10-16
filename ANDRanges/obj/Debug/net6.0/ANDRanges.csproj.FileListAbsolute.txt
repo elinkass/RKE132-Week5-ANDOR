@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week5/ANDRanges/bin/Debug/net6.0/ANDRanges
+/Users/elinkass/Projects/Week5/ANDRanges/bin/Debug/net6.0/ANDRanges.deps.json
+/Users/elinkass/Projects/Week5/ANDRanges/bin/Debug/net6.0/ANDRanges.runtimeconfig.json
+/Users/elinkass/Projects/Week5/ANDRanges/bin/Debug/net6.0/ANDRanges.dll
+/Users/elinkass/Projects/Week5/ANDRanges/bin/Debug/net6.0/ANDRanges.pdb
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.AssemblyInfo.cs
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.dll
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/refint/ANDRanges.dll
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.pdb
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ANDRanges.genruntimeconfig.cache
+/Users/elinkass/Projects/Week5/ANDRanges/obj/Debug/net6.0/ref/ANDRanges.dll
